@@ -1,0 +1,11 @@
+Palíndromo: programação dinâmica
+Super Sales: programação dinâmica
+Corte de hastes: programação dinâmica
+Adega de Vinhos: programação dinâmica
+Passeio de Jipeiros: fluxo máximo, grafo, dijkstra
+Orkut: grafo, ordenação topológica
+Rede de telecomunicações: grafo, vertices/arestas de corte
+Wacky Races: dijkstra
+Expondo a corrupção: Tópicos: grafo, maratona, requer solução eficiente, programação dinâmica, componentes conexos
+Energia x Tempo: maratona
+Subconjuntos complementares: programação dinâmica

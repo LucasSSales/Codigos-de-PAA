@@ -1,0 +1,11 @@
+Rotas de Entrega: Grafo, Dijkstra
+Bitmap: array bidimensional, dividir e conquistar, recursão
+Willy Ecológico: ordenação, busca binária
+Os suspeitos: grafo
+Árvore geradora máxima: Árvore, grafo, conjuntos disjuntos
+Velocidade Máxima: grafo
+Pizzaria: grafo
+Horário dos Ônibus: dijkstra
+Qual a posição do elemento na matriz?: busca
+Count Sort: ordenação
+Quase menor caminho: dijkstra
